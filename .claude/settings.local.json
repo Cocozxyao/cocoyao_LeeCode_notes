@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/24528/Desktop/github_test/academic-research-skills-main/.claude-plugin/**)",
+      "Read(//c/Users/24528/Desktop/github_test/academic-research-skills-main/.claude/**)"
+    ]
+  }
+}
